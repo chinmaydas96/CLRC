@@ -12,8 +12,11 @@ Using Figure 2.2 as a model, illustrate the operation of INSERTION-SORT on the a
 |26| 31 | 41| 41| 59| 58|
 |26| 31 | 41| 41| 58| 59|
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+
+### Exercises 2.1-2
+***
+Rewrite the INSERTION-SORT procedure to sort into nonincreasing instead of nondecreasing order.
+
+### `Answer`
+![pic](images/reverseinsertion.png)
+
