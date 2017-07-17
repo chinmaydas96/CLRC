@@ -2,4 +2,4 @@
 
 ---
 
-## Full solution can be found at (link)[https://github.com/gzc/CLRS]
+## Full solution can be found at [link](https://github.com/gzc/CLRS)
